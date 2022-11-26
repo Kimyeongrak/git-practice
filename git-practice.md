@@ -112,3 +112,10 @@ Git 에게 맡기지 않을 것들
 - `lions.yaml` 파일 삭제
 - `tigers.yaml` 의 manager 를 `Donald` 로 변경
 - `leopards.yaml` 파일 추가
+
+***
+😅 해야할것
+- .gitignore 사용법에 대해 좀더 알아봐야함.
+- 작업했던 내용을 github 에 pull, push 하는것에 대해 알아봐야함.
+- git add 에 대한 이해부족
+- git commit 에 대한 이해부족
