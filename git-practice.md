@@ -119,3 +119,5 @@ Git 에게 맡기지 않을 것들
 - 작업했던 내용을 github 에 pull, push 하는것에 대해 알아봐야함.
 - git add 에 대한 이해부족
 - git commit 에 대한 이해부족
+- github 에 올라가있는 `.idea` folder 그리고 secrets.yaml 파일을 .gitignore 에 추가했지만 github 에 push 할때 포함되어 올라갔는데 이해가 안됨.
+  - Google 에서 찾아본 결과 
